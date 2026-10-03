@@ -244,9 +244,9 @@ Cảm ơn bạn. Trước khi kết thúc, trong câu chuyện vừa rồi có b
 
 ## Checklist trước khi nộp
 
-- [ ] Repo có tên `Track1_Day17_2A202602359_PhamHuongGiang`.
+- [x] Repo có tên `Track1_Day17_2A202602359_PhamHuongGiang`.
 - [x] Đã điền tên nhóm và đủ ba thành viên.
-- [ ] Nhóm đã xác nhận/chỉnh Problem Hypothesis Brief thay vì giữ nguyên bản AI một cách máy móc.
+- [x] Nhóm đã xác nhận/chỉnh Problem Hypothesis Brief thay vì giữ nguyên bản AI một cách máy móc.
 - [x] Interviewee là người ngoài nhóm và đáp ứng tiêu chí 7 ngày.
 - [x] Interviewee đã đồng ý trước khi bắt đầu ghi âm.
 - [x] `interview/notes.md` chỉ chứa notes từ lượt Phạm Hương Giang làm interviewer.
